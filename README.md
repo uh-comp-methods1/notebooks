@@ -8,3 +8,5 @@ Table of contents
 4. [Polynomial interpolation](interpolation)
 5. [Numerical integration](integration)
 6. [Ordinary differential equations](odes)
+
+See [installation instructions](install.md) for guidance on setting up the required Python environment. ([Alternative setups](install_alt.md) are also possible.)
