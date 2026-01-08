@@ -1,0 +1,16 @@
+name: comp-methods
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
+  - pandas
+  - jupyterlab
+  - jupyterlab-git
+  - git
+  - pip
+  - pip:
+    - scikit-fem
